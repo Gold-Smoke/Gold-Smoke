@@ -24,6 +24,7 @@
 - 🌱 I’m currently learning **Australian**
 - 💬 Ask me about **TF2 Hat market**
 
+![Alt text](a.png?raw=true "me" )
 
 <div> <a href="https://github.com/gold-smoke" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
@@ -92,6 +93,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **australian**
+
+![Alt text](b.jpg?raw=true "b")
 
 - 👯 I’m looking to collaborate on **a project**
 

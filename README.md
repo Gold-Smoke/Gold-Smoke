@@ -14,6 +14,8 @@
 - 🧙 Write-once, debug-never sorcerer.
 - 💼 Professional button-clicker, part-time bug creator.
 
+![Alt text](theskeletonappears-skeleton.gif?raw=true "me" )
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gold-smoke&label=Profile%20views&color=0e75b6&style=flat" alt="gold-smoke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gold-smoke&theme=" alt="gold-smoke" /></a> </p>
@@ -52,6 +54,7 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 [![How many people I've murdered](https://api.star-history.com/svg?repos=Gold-Smoke/GoldSmoke&type=date&legend=top-left)](https://www.star-history.com/#Gold-Smoke/Gold-Smoke&type=date&legend=top-left)
+![Alt text](long-live-ottoman-empire-turkey.gif?raw=true "me" )
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gold-Smoke&show_icons=true&theme=radical&hide_border=true&count_private=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gold-Smoke&theme=highcontrast&hide_border=true"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gold-Smoke&theme=discord&row=1&column=6&no-bg=true&no-frame=true"/> </p>
@@ -114,3 +117,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gold-smoke&show_icons=true&locale=en" alt="gold-smoke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gold-smoke&" alt="gold-smoke" /></p>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+![Alt text](mario-judah-meme-fnaf.gif?raw=true "me" )
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 

@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **a project**
 
 - 💬 Ask me about **CS2 Skins after the crash**
-[![Alt text](HaveACoolTuesday.png?raw=true "me" )]([https://www.youtube.com/watch?v=tjfhlvf67_Y](https://www.youtube.com/watch?v=du-TY1GUFGk))
+[![Alt text](HaveACoolTuesday.png?raw=true "me" )](https://www.youtube.com/watch?v=du-TY1GUFGk)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

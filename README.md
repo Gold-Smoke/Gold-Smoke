@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
 <h1 align="center">Hi 👋, I'm Smoke</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gold-smoke&label=Profile%20views&color=0e75b6&style=flat" alt="gold-smoke" /> </p>
 
@@ -35,6 +39,8 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 [![How many people I've murdered](https://api.star-history.com/svg?repos=Gold-Smoke/GoldSmoke&type=date&legend=top-left)](https://www.star-history.com/#Gold-Smoke/Gold-Smoke&type=date&legend=top-left)
+
+<!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
 <!--
 **Gold-Smoke/Gold-Smoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

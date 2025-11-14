@@ -14,7 +14,8 @@
 - 🧙 Write-once, debug-never sorcerer.
 - 💼 Professional button-clicker, part-time bug creator.
 
-![Alt text](theskeletonappears-skeleton.gif?raw=true "me" )
+[![Alt text](theskeletonappears-skeleton.gif?raw=true "me" )](https://www.youtube.com/watch?v=tjfhlvf67_Y)
+<- click pls
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gold-smoke&label=Profile%20views&color=0e75b6&style=flat" alt="gold-smoke" /> </p>
 
